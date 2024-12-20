@@ -5,7 +5,7 @@
 👩🏻‍🎓 **Studied Electronics and communication Engineering** at SNS Institute of technology,Coimbatore. <br/>
 🌷 **Knowledge Sharing**- Served as an Assistant Professor, finding great fulfillment in mentoring students.<br/>
 🌱 **I’m currently learning & expanding** my skills in full-stack development including React.js, Node.js, and MongoDB <br/>
-🎓 **Certifications**-**Zen Class Full Stack Developer Program (MERN STACK)**- Issued by **GUVI** (IIT-M Incubated Company)
+🎓 **Certifications**-Zen Class Full Stack Developer Program **(MERN STACK)**- Issued by **GUVI** (IIT-M Incubated Company)
         [View Certificate](https://drive.google.com/file/d/1P-lBGU2giu2EA-4ELhrGSf50vDgWcA3H/view?usp=drive_link)
 
 
