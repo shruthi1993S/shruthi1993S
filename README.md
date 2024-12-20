@@ -17,20 +17,15 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=shruthi1993S&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=shruthi1993S&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
----
 
-### 📫 How to reach me:  
-- **Email:** [shruthiji06@@gmail.com](mailto:shruthiji@gmail.com)  
-
----
-[![](https://visitcount.itsvg.in/api?id=shruthi1993S&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasmashruthi/) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasmashruthi/)
+
+
+- **Email:** [shruthiji06@@gmail.com](mailto:shruthiji@gmail.com)  
+
+[![](https://visitcount.itsvg.in/api?id=shruthi1993S&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 
