@@ -4,8 +4,7 @@
 👩🏻‍💻 **Junior Web developer** sharing my journey and learnings in tech.  
 👩🏻‍🎓 **Studied Electronics and communication Engineering** at SNS Institute of technology,Coimbatore. <br/>
 🌷 **Knowledge Sharing**- Served as an Assistant Professor, finding great fulfillment in mentoring students.<br/>
-🌱 **I’m currently learning & expanding** my skills in full-stack development, including the MERN Stack (MongoDB, Express.js, React.js,
-    Node.js)! <br/>
+🌱 **I’m currently learning & expanding** my skills in full-stack development, including the MERN Stack (MongoDB, Express.js, React.js, <br/>  Node.js)! <br/>
 🎓 **Certifications**-Zen Class Full Stack Developer Program- Issued by **GUVI** (IIT-M Incubated Company)
         [View Certificate](https://drive.google.com/file/d/1P-lBGU2giu2EA-4ELhrGSf50vDgWcA3H/view?usp=drive_link)
 
