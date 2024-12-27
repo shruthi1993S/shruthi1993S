@@ -21,7 +21,7 @@
 
 
 ## 🌐 Socials:
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hasmashruthi/])
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hasmashruthi/) 
 
 
 - **Email:** [shruthiji06@@gmail.com](mailto:shruthiji@gmail.com)  
